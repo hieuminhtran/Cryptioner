@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Micerker\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Micerker\\.nuget\\packages"
+    ]
+  }
+}

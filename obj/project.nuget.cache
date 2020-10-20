@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPfbvRtBtkH0tZsEjr2n8OHoZxEi0mUBORIP+xRu7VKJ1tTFU97fi5jNvZcHS1se5KywR7L6OOcSJOtW6dKFhg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\CSharp\\Cryptioner\\Cryptioner\\Cryptioner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Micerker\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
+    "C:\\Users\\Micerker\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
